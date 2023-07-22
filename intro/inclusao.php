@@ -5,6 +5,9 @@
 
 include "title.php";
 
+//require - gera um erro fatal caso o script não exista.
+
+require "title.php";
 
 
 ?>

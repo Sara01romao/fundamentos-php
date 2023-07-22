@@ -1,0 +1,28 @@
+MÉTODO HTTP
+
+Requisições
+
+-GET: solicita a apresentação de um recurso
+-POST: Envio de dados ao servidor
+-PUT: Atualização de dados;
+-Delete: Remoção de dados;
+-PATCH - atualização de dado específico;
+
+
+
+
+
+VARIÁVEIS GLOBAIS DO PHP
+
+$_ENV : variáveis de ambiente;
+$_GET: Parâmetros que foram enviados por request GET;
+$_POST: Parâmetros que foram enviados por POST;
+$_COOKIE: Valores de cookies;
+$_SERVER: Informações sobre o servidor 
+    - SERVER_SOFTWARE: identificação do servidor;
+    - SERVER_NAME: Hostname, DNS ou IP do servidor;
+    - SERVER_PROTOCOL: Protocolo do servidor;
+    - SERVER_PORT: Porta do servidor;
+    - QUERY_STRING: Argumentos após o ? na URL;
+     
+$_FILES : Informações sobre os arquivos que vieram por upload;
