@@ -1,0 +1,7 @@
+-Session podemos criar uma variável que persiste em diferentes páginas
+e tamebm perdura por várias visitas ao mesmo site.
+
+- São usada para : autenticação, carrinho de compras e tudo o que precisa 
+persistir de página em página.
+
+- São salvas em arquivos no formato php ou WDDX

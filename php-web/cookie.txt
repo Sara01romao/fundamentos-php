@@ -1,0 +1,5 @@
+Os cookies são string que contém informações
+A função para adicionar um cookie é setcookie;
+a função deve ser chamada antes do corpo da página, pois envia dados como header
+- dados como: nome, valor e data de expiração;
+-podemos acessar os cookies de volta com $_cookie
